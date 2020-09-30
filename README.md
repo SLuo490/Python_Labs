@@ -1,3 +1,3 @@
 # Python_Labs
 
-A collection of python projects and labs 
+A collection of my python projects and labs 
